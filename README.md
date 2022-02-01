@@ -3,13 +3,20 @@
 This is basics Augmented reality course, which is free you can find video tutorial on [AiPhile](https://www.youtube.com/aiphile)
 
 ## Course Content
-
-1. (opencv Python)
-2. Introduction to AR and Generating Markers
-3. Markers Detection
-4. Simple Image Augmentation (Project 1)
-5. Camera Calibration
-6. 3D Pose Estimation
+|NO: | Topic | status
+|------|-------|-----|
+|1|Setting Up Development Environment in VS code (opencv Python) | done
+|2| Introduction to AR and Generating Markers| pending
+|3| Markers Detection| pending 
+|4| Simple Image Augmentation (Project 1)| pending 
+|5|Camera Calibration| pending 
+|6|3D Pose Estimation| pending 
+1. 
+2. 
+3. 
+4.
+5. 
+6. 
 7. Distance Estimation With ArUco Markers
 8. Floating Image View (Place image In 3D World)
 9. Tran-Background Floating Image Viewer
