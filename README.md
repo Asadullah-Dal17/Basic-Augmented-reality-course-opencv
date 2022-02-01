@@ -1,9 +1,23 @@
 # Basic-Augmented-reality-course-opencv
+
 This is basics Augmented reality course, which is free you can find video tutorial on [AiPhile](https://www.youtube.com/aiphile)
+
+## Course Content
+
+1. (opencv Python)
+2. Introduction to AR and Generating Markers
+3. Markers Detection
+4. Simple Image Augmentation (Project 1)
+5. Camera Calibration
+6. 3D Pose Estimation
+7. Distance Estimation With ArUco Markers
+8. Floating Image View (Place image In 3D World)
+9. Tran-Background Floating Image Viewer
+10. AR Digital Clock
+
 <details>
 <summary>Installation Section</summary>
 <br>
-
 
 ### Windows ※
 
@@ -16,6 +30,7 @@ pip install opencv-contrib-python
 ```bash
 pip3 install opencv-contrib-python
 ```
+
 </br>
 </details>
 
