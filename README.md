@@ -7,7 +7,7 @@ This is basics Augmented reality course, which is free you can find video tutori
 |NO: | Topic | status| Tutorial Link
 |------|-------|-----|----|
 |1|Setting Up Development Environment in VS code (opencv Python) | done| [YouTube Video Link](https://youtu.be/5OgY6oCZM_E) |
-|2| Introduction to AR and Generating Markers| pending | Not Available |
+|2| Introduction to AR and Generating Markers| done | [YouTube Video Link](https://youtu.be/_6x7pDOJkEk) |
 |3| Markers Detection| pending | Not Available  |
 |4| Simple Image Augmentation (**Project 1**)| pending | Not Available |
 |5|Camera Calibration| pending | Not Available |
