@@ -4,18 +4,17 @@ This is basics Augmented reality course, which is free you can find video tutori
 
 ## Course Content
 
-|NO: | Topic | status| Tutorial Link
+|No: | Topic | status| Tutorial Link
 |------|-------|-----|----|
 |1|Setting Up Development Environment in VS code (opencv Python) | ✅| [YouTube Video Link](https://youtu.be/5OgY6oCZM_E) |
 |2| Introduction to AR and Generating Markers| ✅ | [YouTube Video Link](https://youtu.be/_6x7pDOJkEk) |
 |3| Markers Detection| ✅ | [YouTube Video Link](https://youtu.be/P9QZhcteRlU)  |
 |4| Simple Image Augmentation (**Project 1**)| ✅| [YouTube Video](https://youtu.be/wB4BRWNuJM4)
 |5|Camera Calibration| ✅ |[YouTube Video Link](https://youtu.be/JHeNger8B2E) |
-|6|3D Pose Estimation| pending | Not Available |
-|7|Distance Estimation With ArUco Markers| pending | Not Available |
-|8| Floating Image View (Place 2D Image In 3D World) (**Project 2**) |pending | Not Available |
-|9| Tran-Background Floating Image Viewer (**Project 3**)| pending | Not Available |
-|10| AR Digital Clock (**Project 4**)|pending | Not Available |
+|6|3D Pose & Distance Estimation| ✅ | [YouTube Video Link](https://youtu.be/mn-M6Qzx6SE) |
+|7| Floating Image View (Place 2D Image In 3D World) (**Project 2**) |pending | Not Available |
+|8| Tran-Background Floating Image Viewer (**Project 3**)| pending | Not Available |
+|9| AR Digital Clock (**Project 4**)|pending | Not Available |
 
 <details>
 <summary>Installation Section</summary>
