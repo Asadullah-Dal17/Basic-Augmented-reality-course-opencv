@@ -44,11 +44,17 @@ while True:
             bottom_right = corners[2].ravel()
             bottom_left = corners[3].ravel()
 
+            # Since there was mistake in calculating the distance approach point-outed in the Video Tutorial's comment
+            # so I have rectified that mistake, I have test that out it increase the accuracy overall.
+            # Calculating the distance
+            distance = np.sqrt(
+                tVec[i][0][2] ** 2 + tVec[i][0][0] ** 2 + tVec[i][0][1] ** 2
+            )
             # Draw the pose of the marker
-            poit = cv.drawFrameAxes(frame, cam_mat, dist_coef, rVec[i], tVec[i], 4, 4)
+            point = cv.drawFrameAxes(frame, cam_mat, dist_coef, rVec[i], tVec[i], 4, 4)
             cv.putText(
                 frame,
-                f"id: {ids[0]} Dist: {round(tVec[i][0][2],2)}",
+                f"id: {ids[0]} Dist: {round(distance, 2)}",
                 top_right,
                 cv.FONT_HERSHEY_PLAIN,
                 1.3,
