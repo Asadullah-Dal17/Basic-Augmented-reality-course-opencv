@@ -23,13 +23,13 @@ This is basics Augmented reality course, which is free you can find video tutori
 ### Windows ※
 
 ```bash
-pip install opencv-contrib-python 
+pip install opencv-contrib-python==4.5.5.62
 ```
 
 ### Linux🐧 or Mac🍎
 
 ```bash
-pip3 install opencv-contrib-python
+pip3 install opencv-contrib-python==4.5.5.62
 ```
 
 </br>
