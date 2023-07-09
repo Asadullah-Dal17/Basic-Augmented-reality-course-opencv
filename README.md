@@ -20,8 +20,8 @@ This is basics Augmented reality course, which is free you can find video tutori
 <summary>Installation Section</summary>
 <br>
 
+⚠️⚠️since OpenCV has updated the function names in the new version, the source code will work specified version ⚠️⚠️.
 ### Windows ※
-
 ```bash
 pip install opencv-contrib-python==4.5.5.62
 ```
