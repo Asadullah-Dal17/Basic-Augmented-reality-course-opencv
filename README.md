@@ -35,7 +35,7 @@ pip3 install opencv-contrib-python==4.5.5.62
 </br>
 </details>
 
-If You have any Question or need help in CV Project, Feel free to DM on Instagram  <a href="https://www.instagram.com/aiphile17/">  <img alt="Instagram" src="https://user-images.githubusercontent.com/66181793/131223931-32d84c10-88b4-4cd6-8eb8-89f06c3b5b51.png"  width="20"> </a>
+If You have any Questions or need help with CV Project, Feel free to DM on Instagram  <a href="https://www.instagram.com/aiphile17/">  <img alt="Instagram" src="https://user-images.githubusercontent.com/66181793/131223931-32d84c10-88b4-4cd6-8eb8-89f06c3b5b51.png"  width="20"> </a>
 
 ## 💚🖤 Join me on Social Media 🖤💚
 
@@ -48,7 +48,7 @@ If You have any Question or need help in CV Project, Feel free to DM on Instagra
   </a>
 
 <!-- Fiverr Badge -->
-   <a href="https://www.fiverr.com/aiphile">
+   <a href="https://www.fiverr.com/asadullah_ar">
     <img src="https://img.shields.io/badge/Fiverr-fiverr?style=for-the-badge&logo=Fiverr&logoColor=black" alt="Fiverr Badge"/>
   </a>
 <!-- Instagram Badge  -->
